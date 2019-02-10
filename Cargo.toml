@@ -1,0 +1,13 @@
+[package]
+name = "url"
+version = "0.1.0"
+authors = ["yukimemi <yukimemi@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+url = "1.7.2"
+failure = "0.1.5"
+structopt = "0.2.14"
+atty = "0.2.11"
+pretty_env_logger = "0.3.0"
+log = "0.4.6"
